@@ -20,3 +20,6 @@ bargaining power
 - A few years ago, I heard it from my manager that you should bring something to get bargaining power on the salary negotiation table.
 - It is always difficult for me to get better bargaining power at the retail store to negotiate. 
 - I am sure one of your friends is really good at negotiating and get a better price. When I see his bargaining power, I can not believe how great it is.
+
+[Next](./7_bargaining_power.md)
+
