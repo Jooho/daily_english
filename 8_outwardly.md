@@ -20,5 +20,5 @@ Outwardly
 - I am pretty sure that you are doing great outwardly and inwardly as well.
 
 
+[Next](./%NEXT)
 
-[Next](./7_bargaining_power.md)

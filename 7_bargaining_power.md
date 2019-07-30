@@ -21,5 +21,5 @@ bargaining power
 - It is always difficult for me to get better bargaining power at the retail store to negotiate. 
 - I am sure one of your friends is really good at negotiating and get a better price. When I see his bargaining power, I can not believe how great it is.
 
-[Next](./7_bargaining_power.md)
+[Next](./8_outwardly.md)
 
