@@ -19,5 +19,5 @@ permission or freedom to do whatever you want
 - Open source open to everybody, which means anybody does not have carte blanche decision-making power to lead an opensource project single-handedly.
 - Everybody admits that husband does not have carte blanche to buy whatever he wants.
 - Do you have carte blanche to choose a place for holiday?
-- Does your manager have carte blanche to devide the bonus for his employees?
+- Does your manager have carte blanche to divide the bonus for his employees?
 - Like everyone else, I don't have carte blanche to do whatever I want to buy
