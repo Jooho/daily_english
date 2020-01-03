@@ -1,11 +1,14 @@
 %TITLE
 ------------
 
-**Mean**
+**번역**
 
 
-[link]()
 
+**Sentences**
+
+
+*Tip*
 
 
 [Next](./%NEXT)
