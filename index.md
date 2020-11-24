@@ -1,9 +1,9 @@
 # Daily English
 
 ## Try to speak everyday!
-- [words](./contents/words)
-- [sentence](./contents/sentence)
-- [tongue twister](./contents/tongue_twister)
+- [words](./_posts/words)
+- [sentence](./_posts/sentence)
+- [tongue twister](./_posts/tongue_twister)
 
 
 ## Usage
